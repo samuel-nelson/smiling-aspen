@@ -130,7 +130,7 @@ sections:
         type: pricing_plan
       - title: Rocketship
         subtitle: Prepare for launch. Everything in the basic plan +
-        price: lorem-ipsum
+        price: $7k/mo
         details: >-
           ## Lorem ipsum
 
