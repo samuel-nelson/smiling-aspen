@@ -204,8 +204,7 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
         default_value: Name
