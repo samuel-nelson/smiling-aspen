@@ -57,7 +57,7 @@ sections:
         image_alt: App user profile preview
         content: >
           We specialize in the JAMstack (Javascript, APIs, Markup) to create the
-          fastest, most user friendly sights available. JAM development allows
+          fastest, most user friendly sites available. JAM development allows
           websites to load on user side, which **reduces the need for expensive
           servers and greatly increases security,**
         actions:
