@@ -217,7 +217,7 @@ sections:
       - input_type: textarea
         name: Comments
         label: Comments
-        default_value: lorem-ipsum
+        default_value: Questions or comments?
         options: []
         is_required: false
         type: form_field
