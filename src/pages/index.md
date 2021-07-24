@@ -105,7 +105,8 @@ sections:
     title: No BS Pricing
     subtitle: >-
       We are as transparent as possible. Please reach out if you have any
-      questions. Services can be substituted for others. No contracts.
+      questions. No long term contract required. Services can be substituted for
+      others.
     background: gray
     pricing_plans:
       - title: Basic
