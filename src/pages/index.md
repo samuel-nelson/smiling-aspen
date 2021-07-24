@@ -221,7 +221,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: F
+    submit_label: Send
     type: section_contact
 seo:
   title: Stackbit Azimuth Theme
