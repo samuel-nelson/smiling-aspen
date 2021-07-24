@@ -129,7 +129,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Rocketship
-        subtitle: Prepare for launch. Everything in the basic plan +
+        subtitle: Prepare for launch.
         price: $7k/mo
         details: >
           Your strategy is ready, It's time to grow. Everything in the basic
