@@ -71,9 +71,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Here what other startups are saying
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
