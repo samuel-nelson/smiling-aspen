@@ -22,10 +22,12 @@ sections:
       - title: Digital Marketing
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Most marketing efforts **suck**. Most agencies avoid failure like the
+          plague (or COVID-19), but here at ISA, we aim to **fail fast, learn
+          what works, and add rocket fuel.** If you want us to create and manage
+          basic ad campaigns? We can do that. You want Houston to solve your
+          problem of brand recognition? Even better.
         actions:
           - label: Learn More
             url: /features
