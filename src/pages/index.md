@@ -131,17 +131,24 @@ sections:
       - title: Rocketship
         subtitle: Prepare for launch. Everything in the basic plan +
         price: $7k/mo
-        details: >-
-          ## Lorem ipsum
+        details: >
+          Your strategy is ready, It's time to grow. Everything in the basic
+          plan plus - 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Google Ad Campaign Management
 
 
-          - Lorem ipsum
+          *   Facebook Campaign Management
 
-          - dolor sit amet
+
+          *   Instagram Campaign Management
+
+
+          *   TikTok Campaign Management
+
+
+          *   Website Management
         highlight: false
         actions: []
         type: pricing_plan
