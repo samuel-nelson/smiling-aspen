@@ -210,7 +210,6 @@ sections:
         default_value: Name
       - input_type: email
         name: Email
-        label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
