@@ -73,7 +73,7 @@ sections:
     title: Testimonials
     subtitle: Here what other startups are saying
     reviews:
-      - author: Eric Widget
+      - author: FrugalMcFrugalface.com
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
