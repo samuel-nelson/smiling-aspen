@@ -183,7 +183,9 @@ sections:
     type: section_pricing
   - section_id: lorem-ipsum
     title: Contact Us
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Pricing or service questions? Ready to start? Use the form below and we
+      will respond with 1 hour.
     content: >-
       ## Lorem ipsum
 
