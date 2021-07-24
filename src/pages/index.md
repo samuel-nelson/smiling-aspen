@@ -205,7 +205,6 @@ sections:
         type: form_field
       - input_type: textarea
         name: Comments
-        label: Comments
         default_value: Questions or comments?
         options: []
         is_required: true
