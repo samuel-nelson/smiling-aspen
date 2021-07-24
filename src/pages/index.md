@@ -156,7 +156,7 @@ sections:
         type: pricing_plan
       - title: Interplanetary
         subtitle: Dedicated support 24/7
-        price: lorem-ipsum
+        price: $12k+/mo
         details: >-
           ## Lorem ipsum
 
