@@ -155,7 +155,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Interplanetary
-        subtitle: lorem-ipsum
+        subtitle: Dedicated support 24/7
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
