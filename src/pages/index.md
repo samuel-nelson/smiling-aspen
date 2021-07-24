@@ -103,7 +103,9 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: No BS Pricing
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We are as transparent as possible. Please reach out if you have any
+      questions. Services can be substituted for others.
     background: gray
     pricing_plans:
       - title: Basic
