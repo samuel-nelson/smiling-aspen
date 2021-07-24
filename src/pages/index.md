@@ -182,7 +182,7 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Contact Us
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
