@@ -80,7 +80,7 @@ sections:
           ISA has transformed the way we operate our buisness. Our site is so
           much faster than it was, our worflow is more efficient, and we are
           already seeing massive change from SEO efforts.
-      - author: Parsley Montana
+      - author: Blue Heeler Services.
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
