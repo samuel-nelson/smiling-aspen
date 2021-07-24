@@ -13,7 +13,7 @@ sections:
       - label: Liftoff
         url: /features
         style: primary
-  - section_id: features
+  - section_id: services
     type: section_features
     background: gray
     title: What We Do
