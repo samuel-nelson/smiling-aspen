@@ -110,7 +110,7 @@ sections:
         subtitle: >-
           Just getting started? Let's get everything up and running and fine
           tune the engine.
-        price: $500
+        price: $5
         details: >-
           ## Lorem ipsum
 
