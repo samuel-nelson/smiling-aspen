@@ -38,10 +38,13 @@ sections:
       - title: eCommerce Strategy and Execution
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We are pros at eCommerce. Whether you run a Shopify store, sell on
+          Amazon, or have your own hosted site, we've seen it all.
+
+
+          We have an **aggressive growth** history with eCommerce and have seen
+          up to **166% growth** year over year in store revenue,
         actions:
           - label: Learn More
             url: /features
