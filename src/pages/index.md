@@ -19,7 +19,7 @@ sections:
     title: What We Do
     subtitle: 'We offer packages of the following with simple, affordable pricing.'
     features:
-      - title: The Best Feature of Your Services
+      - title: Digital Marketing
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
