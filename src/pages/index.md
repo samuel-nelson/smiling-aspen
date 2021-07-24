@@ -110,7 +110,7 @@ sections:
         subtitle: >-
           Just getting started? Let's get everything up and running and fine
           tune the engine.
-        price: $5k/mo
+        price: $5k/month
         details: >-
           ## Lorem ipsum
 
