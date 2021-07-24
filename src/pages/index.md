@@ -111,10 +111,7 @@ sections:
           Just getting started? Let's get everything up and running and fine
           tune the engine.
         price: $5k/mo
-        details: >+
-          ## Building
-
-
+        details: >
           It's what you need. Let's figure out how to button up your offerings
           before entering the rocketship.
 
@@ -128,7 +125,6 @@ sections:
           *   SEO development
 
           *   Up to 7 hours for meetings and one on ones.
-
         highlight: false
         actions: []
         type: pricing_plan
