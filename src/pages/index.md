@@ -44,7 +44,7 @@ sections:
 
 
           We have an **aggressive growth** history with eCommerce and have seen
-          up to **166% growth** year over year in store revenue,
+          up to **166% growth** year over year in store revenue.
         actions:
           - label: Learn More
             url: /features
