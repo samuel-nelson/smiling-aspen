@@ -215,7 +215,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: textarea
-        name: lorem-ipsum
+        name: Comments
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
