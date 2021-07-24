@@ -221,7 +221,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: F
     type: section_contact
 seo:
   title: Stackbit Azimuth Theme
