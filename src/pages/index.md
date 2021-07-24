@@ -87,7 +87,7 @@ sections:
           We are now prepared to scale at an insane rate. The digital ad
           campaign strategy is fuel to our fire. Hands down the best ROI we've
           seen.
-      - author: Jonquil Von Haggerston
+      - author: AMAZON
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
