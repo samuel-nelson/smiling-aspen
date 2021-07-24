@@ -107,7 +107,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Basic
-        subtitle: lorem-ipsum
+        subtitle: 'Just '
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
