@@ -102,7 +102,7 @@ sections:
         url: /signup
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: No BS Pricing
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
