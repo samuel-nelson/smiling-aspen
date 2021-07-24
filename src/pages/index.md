@@ -186,8 +186,6 @@ sections:
     subtitle: >-
       Pricing or service questions? Ready to start? Use the form below and we
       will respond with 1 hour.
-    content: |
-      *
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
