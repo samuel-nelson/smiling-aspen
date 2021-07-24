@@ -11,7 +11,7 @@ sections:
       Prepare for liftoff in 3...2...1...
     actions:
       - label: Liftoff
-        url: features
+        url: '#services'
         style: primary
   - section_id: services
     type: section_features
