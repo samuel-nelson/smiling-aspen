@@ -107,7 +107,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Basic
-        subtitle: 'Just '
+        subtitle: 'Just getting started? '
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
