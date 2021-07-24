@@ -111,17 +111,24 @@ sections:
           Just getting started? Let's get everything up and running and fine
           tune the engine.
         price: $5k/mo
-        details: >-
-          ## Lorem ipsum
+        details: >+
+          ## Building
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          It's what you need. Let's figure out how to button up your offerings
+          before entering the rocketship.
 
 
-          - Lorem ipsum
+          *   Integrated Marketing Calendar (The gameplan)
 
-          - dolor sit amet
+          *   Email Marketing (Drip campaigns)
+
+          *   Quarterly Site and Content Audits
+
+          *   SEO development
+
+          *   Up to 7 hours for meetings and one on ones.
+
         highlight: false
         actions: []
         type: pricing_plan
