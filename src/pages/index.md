@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: What We Do
-    subtitle: 'We offer packages in the following with simple, affordable pricing.'
+    subtitle: 'We offer packages of the following with simple, affordable pricing.'
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
