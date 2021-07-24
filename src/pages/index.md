@@ -157,17 +157,23 @@ sections:
       - title: Interplanetary
         subtitle: Dedicated support 24/7
         price: $12k+/mo
-        details: >-
-          ## Lorem ipsum
+        details: >
+          You are experiencing growth, we'll be here the whole time. All items
+          in previous packages plus +
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   24/7 email and/or phone support. Guaranteed replies within an
+          hour.
 
+          *   Dedicated site maintenance.
 
-          - Lorem ipsum
+          *   Advanced ad campaign strategies and research.
 
-          - dolor sit amet
+          *   Influencer Marketing
+
+          *   Affiliates
+
+          *   Up to 20 hours for meetings and one on ones.
         highlight: false
         actions: []
         type: pricing_plan
