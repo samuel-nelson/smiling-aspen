@@ -10,7 +10,7 @@ sections:
       We focus on D2C eCommerce and SaaS startups. We have lean, no BS pricing.
       Prepare for liftoff in 3...2...1...
     actions:
-      - label: Learn More
+      - label: Liftoff
         url: /features
         style: primary
   - section_id: features
