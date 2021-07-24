@@ -186,17 +186,8 @@ sections:
     subtitle: >-
       Pricing or service questions? Ready to start? Use the form below and we
       will respond with 1 hour.
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
