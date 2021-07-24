@@ -73,7 +73,7 @@ sections:
     title: Testimonials
     subtitle: Here what other startups are saying
     reviews:
-      - author: FrugalMcFrugalface.com
+      - author: Frugal McFrugalface
         avatar: images/Screen Shot 2021-07-24 at 12.21.29 AM.png
         avatar_alt: Eric Widget's photo
         content: >-
