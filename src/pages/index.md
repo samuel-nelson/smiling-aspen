@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We build the rocket ship for your startup to take off.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      We focus on D2C eCommerce and SaaS startups. We have lean, no BS pricing.
+      Prepare for liftoff in 3...2...1...
     actions:
       - label: Learn More
         url: /features
