@@ -110,7 +110,7 @@ sections:
         subtitle: >-
           Just getting started? Let's get everything up and running and fine
           tune the engine.
-        price: $5k/mo
+        price: $4k/mo
         details: >
           It's what you need. Let's figure out how to button up your offerings
           before entering the rocketship.
