@@ -154,7 +154,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Interpl
+      - title: Interplanetary
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
