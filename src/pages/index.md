@@ -55,10 +55,11 @@ sections:
       - title: Website Development
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We specialize in the JAMstack (Javascript, APIs, Markup) to create the
+          fastest, most user friendly sights available. JAM development allows
+          websites to load on user side, which **reduces the need for expensive
+          servers and greatly increases security,**
         actions:
           - label: Learn More
             url: /features
