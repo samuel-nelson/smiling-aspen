@@ -77,8 +77,9 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          ISA has transformed the way we operate our buisness. Our site is so
+          much faster than it was, our worflow is more efficient, and we are
+          already seeing massive change from SEO efforts.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
