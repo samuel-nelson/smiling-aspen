@@ -118,6 +118,8 @@ sections:
 
           *   Integrated Marketing Calendar (The gameplan)
 
+          *   Conversion Rate analysis and strategy
+
           *   Email Marketing (Drip campaigns)
 
           *   Quarterly Site and Content Audits
