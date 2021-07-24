@@ -208,6 +208,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Name
     submit_label: lorem-ipsum
     type: section_contact
 seo:
