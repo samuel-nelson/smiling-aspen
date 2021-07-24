@@ -210,7 +210,7 @@ sections:
         default_value: Name
       - input_type: email
         name: Email
-        default_value: lorem-ipsum
+        default_value: Email
         options: []
         is_required: false
         type: form_field
