@@ -74,7 +74,7 @@ sections:
     subtitle: Here what other startups are saying
     reviews:
       - author: FrugalMcFrugalface.com
-        avatar: images/review1.jpg
+        avatar: images/Screen Shot 2021-07-24 at 12.20.16 AM.png
         avatar_alt: Eric Widget's photo
         content: >-
           ISA has transformed the way we operate our buisness. Our site is so
