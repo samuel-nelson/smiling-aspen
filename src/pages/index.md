@@ -129,7 +129,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: Rocketship
-        subtitle: lorem-ipsum
+        subtitle: Prepare for launch. Everything in the basic plan +
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
