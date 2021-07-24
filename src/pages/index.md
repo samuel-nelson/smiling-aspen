@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: What We Do
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'We offer packages in the following with simple, affordable pricing.'
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
