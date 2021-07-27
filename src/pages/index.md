@@ -204,7 +204,6 @@ sections:
     submit_label: Submit
     type: section_contact
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
