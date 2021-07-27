@@ -203,11 +203,6 @@ sections:
         type: form_field
     submit_label: Submit
     type: section_contact
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    actions: []
-    type: section_hero
-    image: images/Space-4.jpeg
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
