@@ -93,14 +93,6 @@ sections:
         content: >-
           THE BEST. Our Amazon products are picking up steam thanks to the new
           descriptions and titles.
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: lorem-ipsum
     title: No BS Pricing
     subtitle: >-
