@@ -218,6 +218,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/Space-4.jpeg
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
