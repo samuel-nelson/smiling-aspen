@@ -34,5 +34,13 @@
     },
     "title": "Interplanetary Space Agency",
     "domain": "https://smiling-aspen-ba038.netlify.app",
-    "favicon": "images/ISA.png"
+    "favicon": "images/ISA.png",
+    "footer": {
+        "sections": [],
+        "has_nav": true,
+        "nav_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
