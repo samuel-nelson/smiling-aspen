@@ -209,6 +209,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/11_thumb.jpg
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
