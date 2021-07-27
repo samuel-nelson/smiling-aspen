@@ -203,8 +203,7 @@ sections:
         type: form_field
     submit_label: Submit
     type: section_contact
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     image_alt: lorem-ipsum
     background: gray
     actions: []
