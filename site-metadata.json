@@ -116,13 +116,7 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "content": "&copy; Interplanetary Space Agency (ISA). All rights reserved."
     },
     "title": "Interplanetary Space Agency",
