@@ -117,7 +117,20 @@
         ],
         "has_nav": true,
         "nav_links": [],
-        "content": "&copy; Interplanetary Space Agency (ISA). All rights reserved."
+        "content": "&copy; Interplanetary Space Agency (ISA). All rights reserved.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "Interplanetary Space Agency",
     "domain": "https://smiling-aspen-ba038.netlify.app",
